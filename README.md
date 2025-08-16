@@ -1,4 +1,5 @@
 📘 SQL Internship – Task 8: Stored Procedures & Functions
+
 📌 Objective
 
 This task focuses on learning reusable SQL blocks by implementing Stored Procedures and Functions in a School Management System database.
@@ -12,6 +13,7 @@ MySQL Workbench – Database design & query execution
 SQL – DDL, DML, Stored Procedures, Functions
 
 📁 Database Structure
+
 Tables & Fields
 
 students
